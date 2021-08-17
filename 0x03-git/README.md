@@ -1,1 +1,1 @@
-This file is about 0x03_git Project in ALX SE Training.
+This file is about 0x03_git Project in ALX SE Training so cool!
